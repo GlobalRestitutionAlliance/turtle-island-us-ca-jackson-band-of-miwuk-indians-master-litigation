@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: jackson-band-of-miwuk-indiansian-restitution-roadmap-and-qsf-trust-execution
+  name: Jackson Band of Miwuk Indiansian Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/jackson-band-of-miwuk-indiansian-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
