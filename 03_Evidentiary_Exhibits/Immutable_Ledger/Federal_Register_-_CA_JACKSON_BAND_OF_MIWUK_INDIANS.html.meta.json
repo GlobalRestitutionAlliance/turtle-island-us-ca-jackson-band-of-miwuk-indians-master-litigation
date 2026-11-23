@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+JACKSON+BAND+OF+MIWUK+INDIANS",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+JACKSON+BAND+OF+MIWUK+INDIANS",
+  "title": "Federal Register - CA JACKSON BAND OF MIWUK INDIANS",
+  "fetched_at": "2026-11-23T17:56:42.810450Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 233165,
+  "sha256": "6dd32aaea56c22aa0b0d64bf6eedc79188e3c77b236c8c9d19d66bb3a85a3e91",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
